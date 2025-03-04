@@ -4,14 +4,9 @@
       👋 Welcome to my GitHub Profile
   </h1>
   <p>
-    <a href="https://profile-page-mu.vercel.app">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=5B9DF7&center=true&vCenter=true&random=false&width=435&lines=Frontend+Developer;Web+Developer;React+Developer;UI%2FUX+Enthusiast" alt="Typing SVG" />
-    </a>
   </p>
   <h2>
-  <a href="https://profile-page-mu.vercel.app" style="text-decoration: none;">
-    더 궁금하시다면
-    </a>
     </h2>
 </div>
 
